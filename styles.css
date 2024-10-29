@@ -1,0 +1,24 @@
+/* Basic Styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+header {
+    padding: 50px 0;
+    background-color: transparent;
+    transition: background-color 0.3s ease;
+}
+
+/* Color Change on Scroll */
+.scrolled {
+    background-color: #f0f0f0 !important;
+}
+
+/* Section Styling */
+section {
+    padding: 50px 0;
+}
